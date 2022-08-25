@@ -25,6 +25,11 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+  <groupId>cn.detachment</groupId>
+  <artifactId>core</artifactId>
+  <version>1.0.8-RELEASE</version>
+</dependency>
   </dependencies>
 
   <build>
